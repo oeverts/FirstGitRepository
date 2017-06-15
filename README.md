@@ -1,2 +1,2 @@
 # FirstGitRepository
-First git repository for practice 
+First git repository for practice.
